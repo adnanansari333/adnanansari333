@@ -41,6 +41,13 @@ Shopify Plus · Shopify Functions & Checkout UI Extensions · Shopify B2B & Mark
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,vscode" alt="Git, GitHub, GitHub Actions, Vercel, Cloudflare, VS Code" />
 
+**AI tools**
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openaigym&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+
 Plus: Shopify Plus, Liquid, Shopify Functions, Checkout & Customer Account UI Extensions, Shopify Flow, Metafields & Metaobjects, Shopify CLI, Gadget, Klaviyo, Mollie, Retool, Sentry
 
 ## 🚀 Featured work
@@ -54,6 +61,13 @@ Plus: Shopify Plus, Liquid, Shopify Functions, Checkout & Customer Account UI Ex
 | **Yummygums** | WooCommerce to Shopify build with Tailwind CSS, then UK & EU stores on an NX monorepo theme | [Case study](https://www.deardigital.com/blogs/work/fast-flawless-headless-migrating-yummygums-from-woocommerce-to-shopify-1) · [Store](https://www.yummygums.com/) |
 
 Most of my client code lives in private agency repositories, so my portfolio at **[adnan-ansari.com](https://adnan-ansari.com)** has the full list of projects.
+
+## 🔗 My other GitHub accounts
+
+Client work happens on my work accounts:
+
+- **[Adnandeardigital](https://github.com/Adnandeardigital)**: dear digital agency work, since 2022
+- **[Adnanvorwerk](https://github.com/Adnanvorwerk)**: Vorwerk (Thermomix) Shopify Plus projects, since 2026
 
 ---
 
