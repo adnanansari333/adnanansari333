@@ -43,10 +43,7 @@ Shopify Plus · Shopify Functions & Checkout UI Extensions · Shopify B2B & Mark
 
 **AI tools**
 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openaigym&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+<p><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openaigym&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" /></p>
 
 Plus: Shopify Plus, Liquid, Shopify Functions, Checkout & Customer Account UI Extensions, Shopify Flow, Metafields & Metaobjects, Shopify CLI, Gadget, Klaviyo, Mollie, Retool, Sentry
 
